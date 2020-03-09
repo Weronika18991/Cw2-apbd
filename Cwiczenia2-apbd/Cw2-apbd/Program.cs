@@ -37,7 +37,10 @@ namespace Cw2_apbd
 
             FileStream writer = new FileStream(@"data.xml", FileMode.Create);
             XmlSerializer serializer = new XmlSerializer(typeof(List<Student>),
-                                        new XmlRootAttribute("uczelnia");
+                                        new XmlRootAttribute("uczelnia"));
+
+            serializer.Serialize(writer, list);
+            writer.Dispose();
 
 
 
