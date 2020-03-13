@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" createdAt="14.03.2020" author="Weronika Smardz">
+  <studenci>
+    <Student>
+      <Imie>Jan</Imie>
+      <Nazwisko>Kowalski</Nazwisko>
+      <Email>kowalski@wp.pl</Email>
+    </Student>
+  </studenci>
+</Uczelnia>
