@@ -9,6 +9,15 @@ namespace Cw2_apbd
     {
         static void Main(string[] args)
         {
+            // Console.WriteLine("Podaj lokalizację pliku!");
+            // string par1 = Console.ReadLine();
+            //
+            // Console.WriteLine("Podaj plik wyjściowy!");
+            // string par2 = Console.ReadLine();
+            //
+            // var lokalizacja = (String.IsNullOrEmpty(par1) ? "dane.csv" : par1);
+            // var output = (String.IsNullOrEmpty(par2) ? "result.xml" : par2);
+            
             string path = @"Data\dane.csv";
 
             //Wczytywanie pliku
@@ -20,7 +29,6 @@ namespace Cw2_apbd
                 while ((line = stream.ReadLine()) != null)
                 {
                     Console.WriteLine(line);
-                    Console.WriteLine("nana");
                 }
             }
 
@@ -37,10 +45,16 @@ namespace Cw2_apbd
             list.Add(st);
 
             FileStream writer = new FileStream(@"data.xml", FileMode.Create);
-            XmlSerializer serializer = new XmlSerializer(typeof(List<Student>),
-                                        new XmlRootAttribute("uczelnia"));
+            XmlSerializer serializer = new XmlSerializer(typeof(Uczelnia));
+            
+            Uczelnia uczelnia = new Uczelnia()
+            {
+                author = "Weronika Smardz",
+                createdAt = DateTime.Today.ToShortDateString(),
+                studenci = list
+            };
 
-            serializer.Serialize(writer, list);
+            serializer.Serialize(writer, uczelnia);
             writer.Dispose();
 
 
