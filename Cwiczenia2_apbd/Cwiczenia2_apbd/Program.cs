@@ -15,11 +15,12 @@ namespace Cw2_apbd
             var fi = new FileInfo(path);
             using (var stream = new StreamReader(fi.OpenRead()))
             {
-                //kkjkjkjkjkj
+                //kkjkjkjkjkj11
                 string line = null;
                 while ((line = stream.ReadLine()) != null)
                 {
                     Console.WriteLine(line);
+                    Console.WriteLine("nana");
                 }
             }
 
