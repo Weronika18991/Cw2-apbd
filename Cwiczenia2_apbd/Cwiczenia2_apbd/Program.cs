@@ -21,19 +21,22 @@ namespace Cw2_apbd
             Console.WriteLine("Podaj format danych");
             string format = Console.ReadLine();
             
-            var path = (String.IsNullOrEmpty(v1) ? @"Data\dane.csv" : v1);
+            var path = (String.IsNullOrEmpty(v1) ? @"dane.csv" : v1);
             var outputPath = (String.IsNullOrEmpty(v2) ? "result.xml" : v2);
+
+            if (!format.Equals("xml"))
+            {
+                Console.WriteLine("Nieobslugiwany typ danych");
+                Environment.Exit(1);
+            }
             
-        //    if(!format.Equals("xml"))
-                
-        
-          
+
             var list = new List<Student>();
             var wrongData = new List<String>();
             Dictionary<string,int> map = new Dictionary<string, int>();
             List<Studies> studies = new List<Studies>();
             List<Student> uniqueList = new List<Student>();
-            
+
             try
             {
                 var lines = File.ReadAllLines(path);
@@ -70,18 +73,17 @@ namespace Cw2_apbd
                     }
                     else
                     {
-                       // Console.WriteLine("NIE DODAJE " + line[0] + " " + line[1]);
                         wrongData.Add(lines[i]);
                     }
                 }
-                
+
                 //usuwanie powtarzajacych sie studentow
 
                 foreach (Student s1 in list)
                 {
                     bool duplicate = false;
                     foreach (Student s2 in uniqueList)
-                        if (s1.indexNumber==s2.indexNumber)
+                        if (s1.indexNumber == s2.indexNumber)
                         {
                             duplicate = true;
                             wrongData.Add(s1.ToString());
@@ -90,26 +92,24 @@ namespace Cw2_apbd
                     if (!duplicate)
                         uniqueList.Add(s1);
                 }
-                
+
                 //zliczanie studentow na danym kierunku
-                
-                for (int i = 0; i < lines.Length; i++)
+
+                for (int i = 0; i < uniqueList.Count; i++)
                 {
-                    var line = lines[i].Split(",");
+                    if (map.ContainsKey(uniqueList[i].studies.name))
+                        map[uniqueList[i].studies.name]++;
 
-                    if (map.ContainsKey(line[2]))
-                        map[line[2]]++;
-
-                    if (!map.ContainsKey(line[2]))
-                        map.Add(line[2], 1);
+                    if (!map.ContainsKey(uniqueList[i].studies.name))
+                        map.Add(uniqueList[i].studies.name, 1);
                 }
-                
+
                 foreach (var i in map)
                 {
-                    Console.WriteLine(i.Key+ " " + i.Value);
+                    Console.WriteLine(i.Key + " " + i.Value);
                     studies.Add(new Studies()
                     {
-                        name = i.Key,
+                        nazwa = i.Key,
                         numberOfStudents = i.Value
                     });
                 }
@@ -124,14 +124,8 @@ namespace Cw2_apbd
                 Console.WriteLine("Plik nie istnieje!");
                 wrongData.Add(f.Message);
             }
+            
 
-            foreach (Student s in uniqueList)
-            {
-                Console.WriteLine(s.ToString());
-            }
-            
-            
-            
             FileStream writer = new FileStream(outputPath, FileMode.Create);
             XmlSerializer serializer = new XmlSerializer(typeof(Uczelnia));
             
@@ -147,9 +141,7 @@ namespace Cw2_apbd
             writer.Dispose();
 
             
-            //bledy 
-            using (StreamWriter file = 
-                new StreamWriter(@"log.txt"))
+            using (StreamWriter file = new StreamWriter(@"log.txt"))
             {
                 foreach (string line in wrongData)
                 {

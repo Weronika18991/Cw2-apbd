@@ -13,30 +13,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="459">
-      <fname>Paweł</fname>
-      <lname>Nowak1</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>1@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 4 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="459">
-      <fname>Paweł</fname>
-      <lname>Nowak1</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>1@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka doktoranckie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4816">
       <fname>Kaja</fname>
       <lname>Jankowski29</lname>
@@ -61,18 +37,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4749">
-      <fname>Justyna</fname>
-      <lname>Kowalski30</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>30@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4432">
       <fname>Michał</fname>
       <lname>Nowak31</lname>
@@ -82,18 +46,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Sztuka Nowych Mediów dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4432">
-      <fname>Michał</fname>
-      <lname>Nowak31</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>31@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -145,18 +97,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4799">
-      <fname>Joanna</fname>
-      <lname>Brzęczyszczykiewicz37</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>37@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4626">
       <fname>Irena</fname>
       <lname>Maciejewski38</lname>
@@ -167,18 +107,6 @@
       <studies>
         <name>Sztuka Nowych Mediów dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4626">
-      <fname>Irena</fname>
-      <lname>Maciejewski38</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>38@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów zaoczne</name>
-        <mode>Zaoczne</mode>
       </studies>
     </Student>
     <Student indexNumber="4446">
@@ -205,18 +133,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4396">
-      <fname>Kacper</fname>
-      <lname>Kowalski40</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>40@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4902">
       <fname>Paweł</fname>
       <lname>Nowak41</lname>
@@ -229,18 +145,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4902">
-      <fname>Paweł</fname>
-      <lname>Nowak41</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>41@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4434">
       <fname>Aleksandra</fname>
       <lname>Brzęczyszczykiewicz42</lname>
@@ -250,18 +154,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Sztuka Nowych Mediów zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4434">
-      <fname>Aleksandra</fname>
-      <lname>Brzęczyszczykiewicz42</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>42@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów zaoczne 6 sem.</name>
         <mode>Zaoczne</mode>
       </studies>
     </Student>
@@ -313,18 +205,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4842">
-      <fname>Jan</fname>
-      <lname>Nowak46</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>46@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów zaoczne 6 sem.</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4709">
       <fname>Jakub</fname>
       <lname>Brzęczyszczykiewicz47</lname>
@@ -361,18 +241,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4789">
-      <fname>Jakub</fname>
-      <lname>Jankowski49</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>49@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4708">
       <fname>Maria</fname>
       <lname>Kowalski50</lname>
@@ -406,18 +274,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Sztuka Nowych Mediów dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4513">
-      <fname>Sabina</fname>
-      <lname>Brzęczyszczykiewicz52</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>52@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -469,18 +325,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4649">
-      <fname>Jan</fname>
-      <lname>Nowak56</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>56@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4755">
       <fname>Jakub</fname>
       <lname>Brzęczyszczykiewicz57</lname>
@@ -490,18 +334,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Sztuka Nowych Mediów dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4755">
-      <fname>Jakub</fname>
-      <lname>Brzęczyszczykiewicz57</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>57@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -577,18 +409,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4423">
-      <fname>Karolina</fname>
-      <lname>Jankowski64</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>64@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4299">
       <fname>Mateusz</fname>
       <lname>Kowalski65</lname>
@@ -610,18 +430,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Sztuka Nowych Mediów dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4629">
-      <fname>Magdalena</fname>
-      <lname>Nowak66</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>66@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -661,18 +469,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4478">
-      <fname>Paweł</fname>
-      <lname>Jankowski69</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>69@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4718">
       <fname>Marta</fname>
       <lname>Kowalski70</lname>
@@ -694,18 +490,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Sztuka Nowych Mediów dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4741">
-      <fname>Kamil</fname>
-      <lname>Nowak71</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>71@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -781,18 +565,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4800">
-      <fname>Sandra</fname>
-      <lname>Brzęczyszczykiewicz77</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>77@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4429">
       <fname>Małgorzata</fname>
       <lname>Maciejewski78</lname>
@@ -802,18 +574,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Sztuka Nowych Mediów dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4429">
-      <fname>Małgorzata</fname>
-      <lname>Maciejewski78</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>78@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -886,18 +646,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Sztuka Nowych Mediów dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4849">
-      <fname>Klaudia</fname>
-      <lname>Jankowski84</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>84@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -1033,18 +781,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="3374">
-      <fname>Tomasz</fname>
-      <lname>Kowalski95</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>95@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4756">
       <fname>Jolanta</fname>
       <lname>Nowak96</lname>
@@ -1081,18 +817,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4412">
-      <fname>Paweł</fname>
-      <lname>Brzęczyszczykiewicz252</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>252@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4525">
       <fname>Dariusz</fname>
       <lname>Maciejewski253</lname>
@@ -1115,18 +839,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4836">
-      <fname>Kamil</fname>
-      <lname>Jankowski254</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>254@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
       </studies>
     </Student>
     <Student indexNumber="4788">
@@ -1165,18 +877,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4454">
-      <fname>Michał</fname>
-      <lname>Brzęczyszczykiewicz257</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>257@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4443">
       <fname>Patryk</fname>
       <lname>Maciejewski258</lname>
@@ -1186,18 +886,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4443">
-      <fname>Patryk</fname>
-      <lname>Maciejewski258</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>258@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -1223,18 +911,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4579">
-      <fname>Michał</fname>
-      <lname>Kowalski260</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>260@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
       </studies>
     </Student>
     <Student indexNumber="4461">
@@ -1285,18 +961,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4413">
-      <fname>Zuzanna</fname>
-      <lname>Jankowski264</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>264@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4490">
       <fname>Michał</fname>
       <lname>Kowalski265</lname>
@@ -1318,18 +982,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4554">
-      <fname>Wojciech</fname>
-      <lname>Nowak266</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>266@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -1381,30 +1033,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4711">
-      <fname>Jakub</fname>
-      <lname>Kowalski270</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>270@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka internetowe</name>
-        <mode>Internetowe</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4711">
-      <fname>Jakub</fname>
-      <lname>Kowalski270</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>270@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4056">
       <fname>Sebastian</fname>
       <lname>Nowak271</lname>
@@ -1429,30 +1057,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4549">
-      <fname>Aleksandra</fname>
-      <lname>Brzęczyszczykiewicz272</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>272@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4549">
-      <fname>Aleksandra</fname>
-      <lname>Brzęczyszczykiewicz272</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>272@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4618">
       <fname>Piotr</fname>
       <lname>Maciejewski273</lname>
@@ -1462,18 +1066,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4618">
-      <fname>Piotr</fname>
-      <lname>Maciejewski273</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>273@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -1489,47 +1081,11 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4530">
-      <fname>Adrian</fname>
-      <lname>Jankowski274</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>274@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4607">
       <fname>Andrzej</fname>
       <lname>Kowalski275</lname>
       <birthdate>2000-02-12</birthdate>
       <email>275@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4607">
-      <fname>Andrzej</fname>
-      <lname>Kowalski275</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>275@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4459">
-      <fname>Wojciech</fname>
-      <lname>Nowak276</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>276@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
@@ -1545,8 +1101,8 @@
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
+        <name>Informatyka dzienne</name>
+        <mode>Dzienne</mode>
       </studies>
     </Student>
     <Student indexNumber="4501">
@@ -1609,30 +1165,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4589">
-      <fname>Agata</fname>
-      <lname>Nowak281</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>281@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4589">
-      <fname>Agata</fname>
-      <lname>Nowak281</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>281@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka internetowe</name>
-        <mode>Internetowe</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4945">
       <fname>Matthew</fname>
       <lname>Brzęczyszczykiewicz282</lname>
@@ -1657,18 +1189,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4556">
-      <fname>Piotr</fname>
-      <lname>Maciejewski283</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>283@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie uzupełniające zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4504">
       <fname>Grzegorz</fname>
       <lname>Jankowski284</lname>
@@ -1681,18 +1201,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4504">
-      <fname>Grzegorz</fname>
-      <lname>Jankowski284</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>284@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4505">
       <fname>Sebastian</fname>
       <lname>Kowalski285</lname>
@@ -1705,18 +1213,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4505">
-      <fname>Sebastian</fname>
-      <lname>Kowalski285</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>285@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4105">
       <fname>Filip</fname>
       <lname>Nowak286</lname>
@@ -1726,30 +1222,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4105">
-      <fname>Filip</fname>
-      <lname>Nowak286</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>286@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4105">
-      <fname>Filip</fname>
-      <lname>Nowak286</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>286@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka jednolite magisterskie</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -1777,18 +1249,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4498">
-      <fname>Artur</fname>
-      <lname>Maciejewski288</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>288@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4471">
       <fname>Piotr</fname>
       <lname>Jankowski289</lname>
@@ -1798,30 +1258,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4471">
-      <fname>Piotr</fname>
-      <lname>Jankowski289</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>289@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4471">
-      <fname>Piotr</fname>
-      <lname>Jankowski289</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>289@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -1885,18 +1321,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4724">
-      <fname>Tomasz</fname>
-      <lname>Jankowski294</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>294@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4754">
       <fname>Piotr</fname>
       <lname>Kowalski295</lname>
@@ -1919,18 +1343,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4769">
-      <fname>Michał</fname>
-      <lname>Nowak296</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>296@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
       </studies>
     </Student>
     <Student indexNumber="4499">
@@ -1957,47 +1369,11 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4733">
-      <fname>Jakub</fname>
-      <lname>Maciejewski298</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>298@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka internetowe</name>
-        <mode>Internetowe</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4584">
       <fname>Kasper</fname>
       <lname>Jankowski299</lname>
       <birthdate>2000-02-12</birthdate>
       <email>299@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4584">
-      <fname>Kasper</fname>
-      <lname>Jankowski299</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>299@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4514">
-      <fname>Krzysztof</fname>
-      <lname>Kowalski300</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>300@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
@@ -2013,8 +1389,8 @@
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
-        <name>Informatyka magisterskie uzupełniające zaoczne</name>
-        <mode>Zaoczne</mode>
+        <name>Informatyka dzienne</name>
+        <mode>Dzienne</mode>
       </studies>
     </Student>
     <Student indexNumber="4448">
@@ -2053,18 +1429,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4935">
-      <fname>Katarzyna</fname>
-      <lname>Maciejewski303</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>303@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4485">
       <fname>Konrad</fname>
       <lname>Jankowski304</lname>
@@ -2089,18 +1453,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4456">
-      <fname>Piotr</fname>
-      <lname>Kowalski305</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>305@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4107">
       <fname>Jan</fname>
       <lname>Nowak306</lname>
@@ -2110,42 +1462,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4107">
-      <fname>Jan</fname>
-      <lname>Nowak306</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>306@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka internetowe</name>
-        <mode>Internetowe</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4107">
-      <fname>Jan</fname>
-      <lname>Nowak306</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>306@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka jednolite magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4107">
-      <fname>Jan</fname>
-      <lname>Nowak306</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>306@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka jednolite magisterskie po angielsku</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -2173,18 +1489,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4817">
-      <fname>Kacper</fname>
-      <lname>Maciejewski308</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>308@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4765">
       <fname>Tomasz</fname>
       <lname>Jankowski309</lname>
@@ -2209,18 +1513,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4387">
-      <fname>Lech</fname>
-      <lname>Kowalski310</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>310@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4509">
       <fname>Błażej</fname>
       <lname>Nowak311</lname>
@@ -2231,18 +1523,6 @@
       <studies>
         <name>Informatyka dzienne po angielsku</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4509">
-      <fname>Błażej</fname>
-      <lname>Nowak311</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>311@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie uzupełniające zaoczne</name>
-        <mode>Zaoczne</mode>
       </studies>
     </Student>
     <Student indexNumber="4609">
@@ -2269,18 +1549,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4481">
-      <fname>Paweł</fname>
-      <lname>Maciejewski313</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>313@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4512">
       <fname>Wojciech</fname>
       <lname>Jankowski314</lname>
@@ -2293,18 +1561,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4512">
-      <fname>Wojciech</fname>
-      <lname>Jankowski314</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>314@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4782">
       <fname>Maciej</fname>
       <lname>Kowalski315</lname>
@@ -2314,18 +1570,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4782">
-      <fname>Maciej</fname>
-      <lname>Kowalski315</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>315@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka Społeczna</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -2389,18 +1633,6 @@
         <mode>Internetowe</mode>
       </studies>
     </Student>
-    <Student indexNumber="4627">
-      <fname>Michał</fname>
-      <lname>Kowalski320</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>320@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4830">
       <fname>Krzysztof</fname>
       <lname>Nowak321</lname>
@@ -2411,18 +1643,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4830">
-      <fname>Krzysztof</fname>
-      <lname>Nowak321</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>321@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
       </studies>
     </Student>
     <Student indexNumber="4486">
@@ -2449,18 +1669,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4447">
-      <fname>Mariusz</fname>
-      <lname>Maciejewski323</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>323@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4580">
       <fname>Bartosz</fname>
       <lname>Jankowski324</lname>
@@ -2473,47 +1681,11 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4580">
-      <fname>Bartosz</fname>
-      <lname>Jankowski324</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>324@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4284">
       <fname>Piotr</fname>
       <lname>Kowalski325</lname>
       <birthdate>2000-02-12</birthdate>
       <email>325@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4284">
-      <fname>Piotr</fname>
-      <lname>Kowalski325</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>325@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Sztuka Nowych Mediów zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4440">
-      <fname>Michał</fname>
-      <lname>Nowak326</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>326@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
@@ -2529,7 +1701,7 @@
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
-        <name>Informatyka magisterskie 3 sem</name>
+        <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -2569,18 +1741,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4796">
-      <fname>Paweł</fname>
-      <lname>Jankowski329</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>329@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4458">
       <fname>Paweł</fname>
       <lname>Kowalski330</lname>
@@ -2605,18 +1765,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4942">
-      <fname>Nakul</fname>
-      <lname>Brzęczyszczykiewicz332</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>332@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4614">
       <fname>Tomoto</fname>
       <lname>Maciejewski333</lname>
@@ -2627,18 +1775,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4614">
-      <fname>Tomoto</fname>
-      <lname>Maciejewski333</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>333@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
       </studies>
     </Student>
     <Student indexNumber="4822">
@@ -2662,18 +1798,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4433">
-      <fname>Adam</fname>
-      <lname>Kowalski335</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>335@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -2713,30 +1837,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4419">
-      <fname>Michał</fname>
-      <lname>Maciejewski338</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>338@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4419">
-      <fname>Michał</fname>
-      <lname>Maciejewski338</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>338@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka doktoranckie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4828">
       <fname>Michał</fname>
       <lname>Jankowski339</lname>
@@ -2773,18 +1873,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4058">
-      <fname>Adrian</fname>
-      <lname>Nowak341</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>341@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka wieczorowe</name>
-        <mode>Wieczorowe</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4524">
       <fname>Michał</fname>
       <lname>Brzęczyszczykiewicz342</lname>
@@ -2794,18 +1882,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4524">
-      <fname>Michał</fname>
-      <lname>Brzęczyszczykiewicz342</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>342@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -2881,18 +1957,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4532">
-      <fname>Jagoda</fname>
-      <lname>Maciejewski348</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>348@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4480">
       <fname>Tomasz</fname>
       <lname>Jankowski349</lname>
@@ -2902,18 +1966,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4480">
-      <fname>Tomasz</fname>
-      <lname>Jankowski349</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>349@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -2941,18 +1993,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4523">
-      <fname>Michał</fname>
-      <lname>Nowak351</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>351@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4766">
       <fname>Bartosz</fname>
       <lname>Brzęczyszczykiewicz352</lname>
@@ -2963,18 +2003,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4766">
-      <fname>Bartosz</fname>
-      <lname>Brzęczyszczykiewicz352</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>352@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka internetowe</name>
-        <mode>Internetowe</mode>
       </studies>
     </Student>
     <Student indexNumber="4941">
@@ -3025,18 +2053,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4422">
-      <fname>Yuriy</fname>
-      <lname>Nowak356</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>356@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4660">
       <fname>Michał</fname>
       <lname>Brzęczyszczykiewicz357</lname>
@@ -3046,18 +2062,6 @@
       <fathersName>Adam</fathersName>
       <studies>
         <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4660">
-      <fname>Michał</fname>
-      <lname>Brzęczyszczykiewicz357</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>357@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -3097,30 +2101,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="3081">
-      <fname>Mikołaj</fname>
-      <lname>Kowalski360</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>360@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka jednolite magisterskie</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="3081">
-      <fname>Mikołaj</fname>
-      <lname>Kowalski360</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>360@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka jednolite magisterskie po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4710">
       <fname>Dariusz</fname>
       <lname>Nowak361</lname>
@@ -3143,18 +2123,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4385">
-      <fname>Anna</fname>
-      <lname>Brzęczyszczykiewicz362</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>362@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka internetowe</name>
-        <mode>Internetowe</mode>
       </studies>
     </Student>
     <Student indexNumber="4529">
@@ -3181,18 +2149,6 @@
         <mode>Zaoczne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4522">
-      <fname>Michał</fname>
-      <lname>Jankowski364</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>364@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne po angielsku</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4827">
       <fname>Dawid</fname>
       <lname>Kowalski365</lname>
@@ -3217,59 +2173,11 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4518">
-      <fname>Karol</fname>
-      <lname>Nowak366</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>366@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4384">
       <fname>Adrian</fname>
       <lname>Brzęczyszczykiewicz367</lname>
       <birthdate>2000-02-12</birthdate>
       <email>367@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4384">
-      <fname>Adrian</fname>
-      <lname>Brzęczyszczykiewicz367</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>367@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4384">
-      <fname>Adrian</fname>
-      <lname>Brzęczyszczykiewicz367</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>367@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka internetowe</name>
-        <mode>Internetowe</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4496">
-      <fname>Łukasz</fname>
-      <lname>Maciejewski368</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>368@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
@@ -3285,7 +2193,7 @@
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
-        <name>Informatyka Społeczna</name>
+        <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -3299,30 +2207,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4750">
-      <fname>Adam</fname>
-      <lname>Jankowski369</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>369@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4750">
-      <fname>Adam</fname>
-      <lname>Jankowski369</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>369@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka internetowe</name>
-        <mode>Internetowe</mode>
       </studies>
     </Student>
     <Student indexNumber="4111">
@@ -3361,59 +2245,11 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4483">
-      <fname>Michał</fname>
-      <lname>Brzęczyszczykiewicz372</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>372@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4751">
       <fname>Tomasz</fname>
       <lname>Maciejewski373</lname>
       <birthdate>2000-02-12</birthdate>
       <email>373@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka dzienne</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4751">
-      <fname>Tomasz</fname>
-      <lname>Maciejewski373</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>373@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4751">
-      <fname>Tomasz</fname>
-      <lname>Maciejewski373</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>373@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>MBA dla branży IT</name>
-        <mode>Zaoczne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4528">
-      <fname>Radosław</fname>
-      <lname>Jankowski374</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>374@pjwstk.edu.pl</email>
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
@@ -3429,7 +2265,7 @@
       <mothersName>Alina</mothersName>
       <fathersName>Adam</fathersName>
       <studies>
-        <name>Informatyka magisterskie 3 sem</name>
+        <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
       </studies>
     </Student>
@@ -3455,18 +2291,6 @@
       <studies>
         <name>Informatyka dzienne</name>
         <mode>Dzienne</mode>
-      </studies>
-    </Student>
-    <Student indexNumber="4814">
-      <fname>Przemysław</fname>
-      <lname>Nowak376</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>376@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka zaoczne</name>
-        <mode>Zaoczne</mode>
       </studies>
     </Student>
     <Student indexNumber="4753">
@@ -3529,18 +2353,6 @@
         <mode>Dzienne</mode>
       </studies>
     </Student>
-    <Student indexNumber="4616">
-      <fname>Rafał</fname>
-      <lname>Nowak381</lname>
-      <birthdate>2000-02-12</birthdate>
-      <email>381@pjwstk.edu.pl</email>
-      <mothersName>Alina</mothersName>
-      <fathersName>Adam</fathersName>
-      <studies>
-        <name>Informatyka magisterskie 3 sem</name>
-        <mode>Dzienne</mode>
-      </studies>
-    </Student>
     <Student indexNumber="4603">
       <fname>Agnieszka</fname>
       <lname>Brzęczyszczykiewicz382</lname>
@@ -3554,4 +2366,13 @@
       </studies>
     </Student>
   </studenci>
+  <activeStudies>
+    <Studies name="Informatyka dzienne" numberOfStudents="106" />
+    <Studies name="Sztuka Nowych Mediów dzienne" numberOfStudents="64" />
+    <Studies name="Sztuka Nowych Mediów zaoczne" numberOfStudents="1" />
+    <Studies name="Informatyka dzienne po angielsku" numberOfStudents="23" />
+    <Studies name="Zarządzanie informacją dzienne (kierunek Zarządzanie)" numberOfStudents="1" />
+    <Studies name="Informatyka internetowe magisterskie" numberOfStudents="1" />
+    <Studies name="Informatyka zaoczne" numberOfStudents="1" />
+  </activeStudies>
 </Uczelnia>

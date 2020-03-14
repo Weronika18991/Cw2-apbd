@@ -6,8 +6,13 @@ namespace Cw2_apbd
     {
         [XmlElement("name")]
         public string name { get; set; }
-        [XmlElement("mode")]
+        [XmlAttribute("name")]
+        public string nazwa { get; set; }
+        public bool ShouldSerializenazwa() {
+            return string.IsNullOrEmpty(name);
+        }
         public string mode { get; set; }
+        [XmlAttribute("numberOfStudents")]
 
         public int numberOfStudents { get; set; }
 
