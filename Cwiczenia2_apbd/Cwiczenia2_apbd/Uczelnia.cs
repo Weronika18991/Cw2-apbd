@@ -11,5 +11,6 @@ namespace Cw2_apbd
         public string author { get; set; }
 
         public List<Student> studenci { get; set; }
+        public List<Studies> activeStudies { get; set; }
     }
 }
