@@ -6,8 +6,7 @@ namespace Cw2_apbd
     {
         [XmlElement("name")]
         public string name { get; set; }
-        [XmlAttribute("name")]
-        public string nazwa { get; set; }
+
         public bool ShouldSerializenazwa() {
             return string.IsNullOrEmpty(name);
         }

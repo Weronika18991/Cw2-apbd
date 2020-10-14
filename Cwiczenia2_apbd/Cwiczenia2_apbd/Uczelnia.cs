@@ -10,7 +10,7 @@ namespace Cw2_apbd
         [XmlAttribute("author")]
         public string author { get; set; }
 
-        public List<Student> studenci { get; set; }
+        public List<Student> students { get; set; }
         public List<Studies> activeStudies { get; set; }
     }
 }

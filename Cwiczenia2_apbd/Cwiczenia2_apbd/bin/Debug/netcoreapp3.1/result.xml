@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" createdAt="14.03.2020" author="Weronika Smardz">
+<Uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" createdAt="14.10.2020" author="Weronika Smardz">
   <studenci>
     <Student indexNumber="459">
       <fname>Paweł</fname>
@@ -2367,12 +2367,26 @@
     </Student>
   </studenci>
   <activeStudies>
-    <Studies name="Informatyka dzienne" numberOfStudents="106" />
-    <Studies name="Sztuka Nowych Mediów dzienne" numberOfStudents="64" />
-    <Studies name="Sztuka Nowych Mediów zaoczne" numberOfStudents="1" />
-    <Studies name="Informatyka dzienne po angielsku" numberOfStudents="23" />
-    <Studies name="Zarządzanie informacją dzienne (kierunek Zarządzanie)" numberOfStudents="1" />
-    <Studies name="Informatyka internetowe magisterskie" numberOfStudents="1" />
-    <Studies name="Informatyka zaoczne" numberOfStudents="1" />
+    <Studies numberOfStudents="106">
+      <name>Informatyka dzienne</name>
+    </Studies>
+    <Studies numberOfStudents="64">
+      <name>Sztuka Nowych Mediów dzienne</name>
+    </Studies>
+    <Studies numberOfStudents="1">
+      <name>Sztuka Nowych Mediów zaoczne</name>
+    </Studies>
+    <Studies numberOfStudents="23">
+      <name>Informatyka dzienne po angielsku</name>
+    </Studies>
+    <Studies numberOfStudents="1">
+      <name>Zarządzanie informacją dzienne (kierunek Zarządzanie)</name>
+    </Studies>
+    <Studies numberOfStudents="1">
+      <name>Informatyka internetowe magisterskie</name>
+    </Studies>
+    <Studies numberOfStudents="1">
+      <name>Informatyka zaoczne</name>
+    </Studies>
   </activeStudies>
 </Uczelnia>

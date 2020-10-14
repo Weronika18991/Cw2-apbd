@@ -12,27 +12,27 @@ namespace Cw2_apbd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Podaj adres pliku CSV!");
-            string v1 = Console.ReadLine();
+            Console.WriteLine("Enter CSV file path!");
+            string csvFilePath = Console.ReadLine();
             
-            Console.WriteLine("Podaj adres pliku wyjsciowego!");
-            string v2 = Console.ReadLine();
+            Console.WriteLine("Enter output file path!");
+            string outputFilePath = Console.ReadLine();
             
-            Console.WriteLine("Podaj format danych");
-            string format = Console.ReadLine();
+            Console.WriteLine("Enter data format");
+            string dataFormat = Console.ReadLine();
             
-            var path = (String.IsNullOrEmpty(v1) ? @"dane.csv" : v1);
-            var outputPath = (String.IsNullOrEmpty(v2) ? "result.xml" : v2);
+            var path = (String.IsNullOrEmpty(csvFilePath) ? @"dane.csv" : csvFilePath);
+            var outputPath = (String.IsNullOrEmpty(outputFilePath) ? "result.xml" : outputFilePath);
 
-            if (!format.Equals("xml"))
+            if (!dataFormat.Equals("xml"))
             {
-                Console.WriteLine("Nieobslugiwany typ danych");
+                Console.WriteLine("Unsupported data type");
                 Environment.Exit(1);
             }
             
 
-            var list = new List<Student>();
-            var wrongData = new List<String>();
+            var students = new List<Student>();
+            var incorrectData = new List<String>();
             Dictionary<string,int> map = new Dictionary<string, int>();
             List<Studies> studies = new List<Studies>();
             List<Student> uniqueList = new List<Student>();
@@ -59,7 +59,7 @@ namespace Cw2_apbd
                             mode = line[3]
                         };
 
-                        list.Add(new Student()
+                        students.Add(new Student()
                         {
                             fname = line[0],
                             lname = line[1],
@@ -73,27 +73,27 @@ namespace Cw2_apbd
                     }
                     else
                     {
-                        wrongData.Add(lines[i]);
+                        incorrectData.Add(lines[i]);
                     }
                 }
 
-                //usuwanie powtarzajacych sie studentow
+                //removing duplicated students
 
-                foreach (Student s1 in list)
+                foreach (Student s1 in students)
                 {
                     bool duplicate = false;
                     foreach (Student s2 in uniqueList)
                         if (s1.indexNumber == s2.indexNumber)
                         {
                             duplicate = true;
-                            wrongData.Add(s1.ToString());
+                            incorrectData.Add(s1.ToString());
                         }
 
                     if (!duplicate)
                         uniqueList.Add(s1);
                 }
 
-                //zliczanie studentow na danym kierunku
+                //Counting students in a given field of study
 
                 for (int i = 0; i < uniqueList.Count; i++)
                 {
@@ -109,20 +109,20 @@ namespace Cw2_apbd
                     Console.WriteLine(i.Key + " " + i.Value);
                     studies.Add(new Studies()
                     {
-                        nazwa = i.Key,
+                        name = i.Key,
                         numberOfStudents = i.Value
                     });
                 }
             }
             catch (ArgumentException e)
             {
-                Console.WriteLine("Podana sciezka jest niepoprawna");
-                wrongData.Add(e.Message);
+                Console.WriteLine("Incorrect file path");
+                incorrectData.Add(e.Message);
             }
             catch (FileNotFoundException f)
             {
-                Console.WriteLine("Plik nie istnieje!");
-                wrongData.Add(f.Message);
+                Console.WriteLine("File doesn't exists!");
+                incorrectData.Add(f.Message);
             }
             
 
@@ -133,17 +133,16 @@ namespace Cw2_apbd
             {
                 author = "Weronika Smardz",
                 createdAt = DateTime.Today.ToShortDateString(),
-                studenci = uniqueList,
+                students = uniqueList,
                 activeStudies = studies
             };
 
             serializer.Serialize(writer, uczelnia);
             writer.Dispose();
-
             
             using (StreamWriter file = new StreamWriter(@"log.txt"))
             {
-                foreach (string line in wrongData)
+                foreach (string line in incorrectData)
                 {
                     file.WriteLine(line);
                 }
